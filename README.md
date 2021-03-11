@@ -1,4 +1,4 @@
 ### Olá 👋
-- 🌱Estou estudando JavaScript atualmente,
+- 🌱 Estou estudando JavaScript atualmente,
 - 🔭 Já estudei bastante e continuo estudando HTML e CSS,
-- 🌱 E cursando Ciências da Computação
+- 🌱 E estou cursando Ciências da Computação
