@@ -3,6 +3,6 @@
 
 - 🌱 No momento estou estudando NextJS;
 - 🔭 Tenho conhecimento em HTML, CSS e JavaScript;
-- 🌱 Tenho uma noção Banco de Dados;
+- 🌱 Tenho uma noção Banco de Dados, de Git e Github;
 - 🔭 Tenho uma base de NodeJS e de ReactJS;
 - 🌱 E estou cursando Ciências da Computação.
